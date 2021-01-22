@@ -1,5 +1,2 @@
 WelCome to GIT :
 
-
-
-Modified from auth branch!!
